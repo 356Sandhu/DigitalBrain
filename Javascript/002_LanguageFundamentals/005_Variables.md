@@ -7,7 +7,7 @@
 
 ### Declaration
 
-### Single Variable
+#### Single Variable
 
 ```javascript
 let name = "Satvir";
