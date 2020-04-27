@@ -62,3 +62,11 @@ These are compiled into JavaScript, but written in their own syntax.
 - Dart: standalone language with it's own engine that runs in non-browser environments (mobile apps), can be transpiled to JavaScript.
 
 #### Credit: https://javascript.info/intro
+
+```javascript
+const doShit = () => {
+  console.log("do shit");
+};
+
+doShit();
+```
