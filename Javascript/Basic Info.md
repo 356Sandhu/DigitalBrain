@@ -60,3 +60,5 @@ These are compiled into JavaScript, but written in their own syntax.
 - TypeScript: concentrated on adding strict data typing to simply development and support of complex systems. Made by Microsoft
 - Flow: also adds data typing but in a different way. Made by Facebook.
 - Dart: standalone language with it's own engine that runs in non-browser environments (mobile apps), can be transpiled to JavaScript.
+
+#### Credit: https://javascript.info/intro
